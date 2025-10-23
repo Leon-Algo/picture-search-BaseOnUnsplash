@@ -1,0 +1,5 @@
+{
+  "name": "Unsplash API Tester",
+  "description": "A simple web application to test the validity and functionality of Unsplash API credentials by fetching and displaying images based on a search query.",
+  "requestFramePermissions": []
+}
